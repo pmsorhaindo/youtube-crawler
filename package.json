@@ -1,0 +1,13 @@
+{
+  "name": "youtube-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mikey",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^28.1.0",
+    "opn": "^5.3.0",
+    "querystring": "^0.2.0",
+    "server-destroy": "^1.0.1"
+  }
+}
